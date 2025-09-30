@@ -5,7 +5,7 @@
 This Weather application takes in a city location and uses Open Weather API to tell you the temperature and weather details.
 
 ## Weather Components
-- Input submission to get City
+- Enter city to get current weather details from weather APP
 - Open Weather API gives name of City, current temperature, weather details, and icon
 - More weather details on the very bottom 
 
@@ -49,4 +49,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 # Notes
 
-Link to API: https://openweathermap.org/api 
+Link to API: https://openweathermap.org/api
