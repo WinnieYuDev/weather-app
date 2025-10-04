@@ -29,5 +29,6 @@ To use this weather app, follow these steps:
 Link to API: https://openweathermap.org/api
 
 # Future Updates
-Welcome Pop up animation for user experience
-Adding feature that updates background of app to change to what the current weather is
+- Welcome Pop up animation for user experience
+- Adding feature that updates background of app to change to what the current weather is
+- Air quality index based on Real time Air quality API: https://aqicn.org/api
