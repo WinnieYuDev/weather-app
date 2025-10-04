@@ -46,7 +46,7 @@ setTimeout(() => {
       <div class="search">
         <input value = {location}
         onChange = {event => setLocation (event.target.value)}
-        placeholder = 'Enter Location'
+        placeholder = 'Enter City e.g Boston'
         onKeyPress = {searchLocation}
         type="text"></input>
       </div>
